@@ -1,0 +1,31 @@
+{
+  "name": "js_test_hw",
+  "version": "1.0.0",
+  "description": "Test enviroment for JS",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "buhgalterok83",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.44.1",
+    "@types/node": "^20.14.2"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "fsevents": "^2.3.2",
+    "playwright": "^1.44.1",
+    "playwright-core": "^1.44.1",
+    "undici-types": "^5.26.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buhgalterok83/js_test_hw.git"
+  },
+  "bugs": {
+    "url": "https://github.com/buhgalterok83/js_test_hw/issues"
+  },
+  "homepage": "https://github.com/buhgalterok83/js_test_hw#readme"
+}

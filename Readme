@@ -1,0 +1,36 @@
+# SauceDemo Playwright Tests
+
+This repository contains automated tests for the SauceDemo website using Playwright. The tests include user login and adding an item to the cart.
+
+## Prerequisites
+
+- Node.js (v12 or higher)
+- npm (v6 or higher) or yarn
+
+## Setup
+
+1. Clone the repository:
+
+    ```sh
+    git clone https://github.com/buhgalterok83/js_test_hw.git
+    cd saucedemo-playwright-tests
+    ```
+
+2. Install the dependencies:
+
+    ```sh
+    npm install
+    ```
+
+    or
+
+    ```sh
+    yarn install
+    ```
+
+## Running Tests
+
+To execute the tests, use the following command:
+
+```sh
+npx playwright test
